@@ -7,7 +7,6 @@
    - [Features](#features)
    - [Gameplay](#gameplay)
 3. [Design](#design)
-   - [Class Diagram](#class-diagram)
    - [State Diagram](#state-diagram)
 4. [Analysis and Discussion](#analysis-and-discussion)
    - [Target Audience](#target-audience)
@@ -40,8 +39,7 @@ Players insert randomly generated pieces onto the game board with the objective 
 
 ## Design
 
-### Class Diagram
-Illustrates the main classes, their attributes, and relationships, highlighting the structural design of the game.
+#
 
 ### State Diagram
 Represents the various states of game objects and transitions that occur as players interact with the game.
